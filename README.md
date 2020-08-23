@@ -1,7 +1,7 @@
 ### Means88 
 ★★★★★☆
 
-![](https://img.shields.io/badge/RANK-18-red)
+![](https://img.shields.io/badge/RANK-18-%23ff4d4d)
 
 #### rm -rf / 
 ![](https://img.shields.io/badge/-UNION%20BURST+-orange)
